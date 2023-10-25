@@ -1,8 +1,8 @@
-# anki-deck-codigo-da-estrada
-
-Baralho Anki para o estudo do Código da Estrada português
+# Baralho Anki para o estudo do Código da Estrada português
 
 As informações contidas neste repositório foram tiradas do site [Bom Condutor](https://bomcondutor.pt/)
+
+Este baralho [está disponível publica e gratuitamente](https://ankiweb.net/shared/info/767179234?cb=1698233169200) na plataforma [AnkiWeb](https://ankiweb.net).
 
 ### Este baralho não está completo
 
